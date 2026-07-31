@@ -27,7 +27,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shefali1702&layout=compact&theme=tokyonight)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=shefali1702&theme=tokyonight)
 
 ## 🌐 Connect with Me
 
