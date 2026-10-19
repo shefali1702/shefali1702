@@ -104,10 +104,10 @@ Simulates a **warehouse / logistics hub** with a capacity-based dispatch policy 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [LeetCode Solutions](https://github.com/shefali1702/leetcode-solutions)
-My DSA journey: clean, optimized and well-documented solutions, solved one problem at a time.
+### 🪔 [Parchhai](https://github.com/shefali1702/parchhai)
+A multilingual, **voice-first** web app that helps families keep the voices, stories and wisdom of their elders, recorded in the elder's own language and saved in a family vault.
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![DSA](https://img.shields.io/badge/-DSA-C471F5?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
 </tr>
