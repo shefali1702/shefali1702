@@ -1,133 +1,68 @@
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,50:c471f5,100:7f7fd5&height=200&section=header&text=Shefali%20Sharma&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Computer%20Engineering%20%40%20Thapar%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Product&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<a href="#selected-work"><img src="assets/hero.svg" width="100%" alt="Shefali Sharma — Computer engineer building AI products"/></a>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=C471F5&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shefali+%F0%9F%A9%B6;Building+with+AI+%2F+ML+%F0%9F%A4%96;Full-stack+web+%26+mobile+apps+%F0%9F%9A%80;Heading+towards+Product+%2B+AI+%F0%9F%8E%AF" alt="Typing SVG" />
-  </a>
+  <a href="https://linkedin.com/in/shefali-sharma-548a39330"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:shefalisharma1702@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email"/></a>&nbsp;
+  <a href="#selected-work"><img src="assets/btn-work.svg" height="40" alt="Selected work"/></a>
 </p>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-about-light.svg"/>
+  <img src="assets/h-about-dark.svg" width="100%" alt="01 — About"/>
+</picture>
+
+I'm a Computer Engineering undergrad at **Thapar Institute of Engineering & Technology**, working where machine learning meets product. I like problems with real people on the other end: a parent who lives alone, a payment that looks wrong, a child who doesn't know their rights yet.
+
+Most of my work is built with my hackathon team and taken from idea to a shipped demo: regression and gradient-boosted models, risk-scoring APIs, simulations, and full-stack web and mobile apps around them. Outside the editor I do case competitions and keep my DSA sharp in C++.
+
+**Where I'm headed:** Product Management + AI.
+
+<br/>
+
+<a id="selected-work"></a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-work-light.svg"/>
+  <img src="assets/h-work-dark.svg" width="100%" alt="02 — Selected work"/>
+</picture>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shefali-sharma-548a39330"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shefalisharma1702@gmail.com"><img src="https://img.shields.io/badge/Email-C471F5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/shefali1702/AQI-Prediction-Using-AI-ML"><img src="assets/p-aqi.svg" width="49%" alt="AQI Prediction"/></a>
+  <a href="https://github.com/shefali1702/BIOS-Transaction-Authentication"><img src="assets/p-bios.svg" width="49%" alt="BIOS Transaction Authentication"/></a>
 </p>
-
----
-
-## 🩶 About Me
-
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shefali1702&layout=donut&langs_count=8&hide_border=true&bg_color=00000000&title_color=c471f5&text_color=8b949e&card_width=300"/>
-
-- 🎓 B.Tech Computer Engineering at **Thapar Institute of Engineering & Technology**
-- 🤖 Into **AI / ML**: regression models, XGBoost, risk scoring, simulations
-- 🛠️ Building full-stack **web & mobile apps** with React, TypeScript, Expo and Supabase
-- 🏆 Hackathons with my team, from fraud detection APIs to apps for families
-- 📚 Solving **DSA** in C++, one LeetCode problem at a time
-- 🎯 Goal: **Product Management + AI**
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,html,css,postgres,mysql&perline=9" />
+  <a href="https://github.com/shefali1702/khairiyat"><img src="assets/p-khairiyat.svg" width="49%" alt="Khairiyat"/></a>
+  <a href="https://github.com/shefali1702/saksham"><img src="assets/p-saksham.svg" width="49%" alt="Saksham"/></a>
 </p>
-
-<p align="center"><b>Frameworks & Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,flask,supabase,git,github,vscode&perline=10" />
+  <a href="https://github.com/shefali1702/Cascade"><img src="assets/p-cascade.svg" width="49%" alt="Cascade"/></a>
+  <a href="https://github.com/shefali1702/parchhai"><img src="assets/p-parchhai.svg" width="49%" alt="Parchhai"/></a>
 </p>
 
-<p align="center"><b>AI / ML & Data</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-1B6AC6?style=for-the-badge&logo=xgboost&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
+<p align="center"><sub>Also &nbsp;·&nbsp; <a href="https://github.com/shefali1702/ML_Git_Lab">ML_Git_Lab</a> — Git workflows for ML &nbsp;·&nbsp; <a href="https://github.com/shefali1702/enterprising-web-applications-assignment-solutions">Enterprise Web Apps in Java</a></sub></p>
 
----
+<br/>
 
-## 🚀 Featured Projects
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-toolkit-light.svg"/>
+  <img src="assets/h-toolkit-dark.svg" width="100%" alt="03 — Toolkit"/>
+</picture>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="assets/toolkit.svg" width="100%" alt="Languages: Python, C++, TypeScript, JavaScript, Java, SQL. AI/ML: scikit-learn, XGBoost, Pandas, NumPy, Jupyter. Web: React, Vite, Tailwind, Node, Express, Flask, Supabase, PostgreSQL, MySQL. Mobile: Expo, React Native."/>
 
-### 🌍 [AQI Prediction using AI/ML](https://github.com/shefali1702/AQI-Prediction-Using-AI-ML)
-Predicts Air Quality Index by comparing **Linear Regression, Decision Tree, Random Forest & XGBoost**, with a React dashboard and a Flask-powered chatbot.
+<br/><br/>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-1B6AC6?style=flat-square) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 [BIOS Transaction Authentication](https://github.com/shefali1702/BIOS-Transaction-Authentication)
-Hackathon build: a low-latency **risk API** that uses behaviour, device and transaction patterns to **allow, challenge or block** a payment, and explains why.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-Risk_Scoring-C471F5?style=flat-square) ![API](https://img.shields.io/badge/-REST_API-FF6F61?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💌 [Khairiyat](https://github.com/shefali1702/khairiyat)
-A mobile app that keeps families close to aging parents living far away, with **NFC tap check-ins** for medicines and QR-based remote setup.
-
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚖️ [Saksham](https://github.com/shefali1702/saksham)
-A web game that teaches Indian children (8–16) their **legal rights**: walk through a town, help solve problems, earn rights cards and take quizzes.
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Game](https://img.shields.io/badge/-EdTech-FF9A9E?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📦 [Cascade](https://github.com/shefali1702/Cascade)
-Simulates a **warehouse / logistics hub** with a capacity-based dispatch policy (normal, warning, critical tiers) across a Python model, Node server and web client.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🪔 [Parchhai](https://github.com/shefali1702/parchhai)
-A multilingual, **voice-first** web app that helps families keep the voices, stories and wisdom of their elders, recorded in the elder's own language and saved in a family vault.
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-</td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-signal-light.svg"/>
+  <img src="assets/h-signal-dark.svg" width="100%" alt="04 — Signal"/>
+</picture>
 
 <p align="center">
-  <sub>Also: <a href="https://github.com/shefali1702/ML_Git_Lab">ML_Git_Lab</a> (Git workflows for ML) • <a href="https://github.com/shefali1702/enterprising-web-applications-assignment-solutions">Enterprise Web Apps in Java</a></sub>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shefali1702&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&bg_color=0F0F12&title_color=EDEDEF&icon_color=FF5A1F&text_color=8A8A93&ring_color=FF5A1F&rank_icon=github"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=shefali1702&hide_border=true&border_radius=16&background=0F0F12&ring=FF5A1F&fire=FF5A1F&currStreakLabel=EDEDEF&sideLabels=8A8A93&currStreakNum=EDEDEF&sideNums=EDEDEF&dates=55555E&stroke=2A2A30"/>
 </p>
 
----
+<br/>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shefali1702&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c471f5&icon_color=ff9a9e&text_color=c9d1d9&rank_icon=github"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=shefali1702&hide_border=true&background=0d1117&ring=c471f5&fire=ff9a9e&currStreakLabel=c471f5&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
-</p>
-
----
-
-<p align="center"><i>"Locked in :)"</i> 🩶</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f7fd5,50:c471f5,100:ff9a9e&height=120&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%" alt="Locked in."/>
