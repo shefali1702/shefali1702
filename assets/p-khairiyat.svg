@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+<defs>
+<clipPath id="cc"><rect width="600" height="400" rx="16"/></clipPath>
+<clipPath id="vc"><rect width="600" height="190"/></clipPath>
+<pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern>
+<linearGradient id="vf" x1="0" y1="0" x2="0" y2="1"><stop offset=".55" stop-color="#0F0F12" stop-opacity="0"/><stop offset="1" stop-color="#0F0F12"/></linearGradient>
+<radialGradient id="glow" cx="80%" cy="0%" r="70%"><stop offset="0" stop-color="#FF5A1F" stop-opacity=".22"/><stop offset="1" stop-color="#FF5A1F" stop-opacity="0"/></radialGradient>
+<filter id="grain" x="0" y="0" width="100%" height="100%">
+<feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
+<feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .55 0"/></filter>
+</defs>
+<g clip-path="url(#cc)">
+<rect width="600" height="400" fill="#0F0F12"/>
+<rect width="600" height="190" fill="#0B0B0E"/>
+<rect width="600" height="190" fill="url(#glow)"/>
+<rect width="600" height="190" fill="url(#g)"/>
+<g clip-path="url(#vc)"><style>.pr{transform-origin:300px 100px;animation:pr 3.6s cubic-bezier(.2,.6,.3,1) infinite;opacity:0}@keyframes pr{0%{transform:scale(.3);opacity:.9}100%{transform:scale(3.2);opacity:0}}</style><circle class="pr" style="animation-delay:0.0s" cx="300" cy="100" r="30" fill="none" stroke="#FF5A1F" stroke-width="1.2"/><circle class="pr" style="animation-delay:0.9s" cx="300" cy="100" r="30" fill="none" stroke="#FF5A1F" stroke-width="1.2"/><circle class="pr" style="animation-delay:1.8s" cx="300" cy="100" r="30" fill="none" stroke="#FF5A1F" stroke-width="1.2"/><circle class="pr" style="animation-delay:2.7s" cx="300" cy="100" r="30" fill="none" stroke="#FF5A1F" stroke-width="1.2"/><rect x="276" y="70" width="48" height="60" rx="10" fill="#141418" stroke="#fff" stroke-opacity=".22"/><path d="M292 92 q8 8 0 16 M300 86 q14 14 0 28 M308 80 q20 20 0 40" fill="none" stroke="#EDEDEF" stroke-width="1.4" stroke-linecap="round" transform="translate(-4 0)"/><g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" letter-spacing="1.3"><text x="40" y="70" fill="#55555E">09:00</text><text x="40" y="86" fill="#EDEDEF">MORNING MEDS  <tspan fill="#FF5A1F">✓</tspan></text><text x="40" y="130" fill="#55555E">21:00</text><text x="40" y="146" fill="#8A8A93">EVENING MEDS  ○</text><text x="560" y="70" text-anchor="end" fill="#55555E">PARENT · JAIPUR</text><text x="560" y="86" text-anchor="end" fill="#EDEDEF">TAPPED IN 2m AGO</text><text x="560" y="146" text-anchor="end" fill="#8A8A93">CHILD · BENGALURU</text></g></g>
+<rect width="600" height="190" fill="url(#vf)"/>
+<line x1="0" y1="190" x2="600" y2="190" stroke="#fff" stroke-opacity=".07"/>
+<text x="32" y="38" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.8" fill="#EDEDEF">03 <tspan fill="#55555E">/</tspan> <tspan fill="#8A8A93">MOBILE · FAMILY</tspan></text>
+<path d="M556 38 l10 -10 M560 28 h6 v6" stroke="#8A8A93" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+<text x="32" y="242" font-family="ui-serif, 'New York', 'Iowan Old Style', Georgia, 'Times New Roman', serif" font-size="32" fill="#EDEDEF" letter-spacing="-.6">Khairiyat</text>
+<text y="276" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#8A8A93"><tspan x="32" dy="0">Keeps families close to ageing parents who live far</tspan><tspan x="32" dy="22">away: NFC tap check-ins for medicines and QR-based</tspan><tspan x="32" dy="22">remote setup, so care never needs a phone call.</tspan></text>
+<rect x="32" y="342" width="51.6" height="26" rx="13" fill="none" stroke="#fff" stroke-opacity=".16"/><text x="43" y="359" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing=".6" fill="#8A8A93">Expo</text><rect x="91.6" y="342" width="96.0" height="26" rx="13" fill="none" stroke="#fff" stroke-opacity=".16"/><text x="102.6" y="359" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing=".6" fill="#8A8A93">TypeScript</text><rect x="195.6" y="342" width="81.2" height="26" rx="13" fill="none" stroke="#fff" stroke-opacity=".16"/><text x="206.6" y="359" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing=".6" fill="#8A8A93">Supabase</text><rect x="284.8" y="342" width="44.2" height="26" rx="13" fill="none" stroke="#fff" stroke-opacity=".16"/><text x="295.8" y="359" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing=".6" fill="#8A8A93">NFC</text>
+<rect width="600" height="400" filter="url(#grain)" opacity=".05"/>
+</g>
+<rect x=".5" y=".5" width="599" height="399" rx="16" fill="none" stroke="#fff" stroke-opacity=".09"/>
+</svg>
