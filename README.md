@@ -39,6 +39,9 @@ Most of my work is built with my hackathon team and taken from idea to a shipped
   <a href="https://github.com/shefali1702/Cascade"><img src="assets/p-cascade.svg" width="49%" alt="Cascade"/></a>
   <a href="https://github.com/shefali1702/parchhai"><img src="assets/p-parchhai.svg" width="49%" alt="Parchhai"/></a>
 </p>
+<p align="center">
+  <a href="https://github.com/shefali1702/ThaliBento"><img src="assets/p-thalibento.svg" width="49%" alt="ThaliBento"/></a>
+</p>
 
 <p align="center"><sub>Also &nbsp;·&nbsp; <a href="https://github.com/shefali1702/ML_Git_Lab">ML_Git_Lab</a> — Git workflows for ML &nbsp;·&nbsp; <a href="https://github.com/shefali1702/enterprising-web-applications-assignment-solutions">Enterprise Web Apps in Java</a></sub></p>
 
